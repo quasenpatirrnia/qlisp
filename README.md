@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Qlisp is a language I am currently writing in c to teach programming. I am using lex because I can't write parsers. I plan to build from there
+QLISP is a bootstrap language to write my next language, SoldierScheme, which is a memorial to my dog.
 
 ## Why?
 
